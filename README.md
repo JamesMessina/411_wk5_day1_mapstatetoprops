@@ -1,12 +1,9 @@
-## Setup
 
-Clone this repo and run `npm i` and then `npm start`
 
 ## Project Instructions
 
 #### Getting Familiar (DON'T SKIP THIS)
 
-* You've already seen this app before (twice now) so you should be pretty familiar with it. In this assignment we will incorporate Redux into the application so all components have access to the cars. We will also add additional properties to the state and see how that effects things.
 
 * We've removed the login/logout functionality so you don't have to login each time to see your changes.
 
